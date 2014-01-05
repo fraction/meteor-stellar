@@ -17,7 +17,7 @@ To utilise Stellar, provide a callback for your template's `rendered` event like
 
 ```javascript
 Template.myTemplate.rendered = function() {
-  $('#element').attr('data-stellar-ratio', 1.1)
+  $('#element').attr('data-stellar-ratio', 1.1);
   $.stellar();
 }
 ```
