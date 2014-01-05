@@ -1,0 +1,9 @@
+{
+  "name": "stellar",
+  "description": "Stellar.js - Parallax scrolling made easy",
+  "homepage": "https://github.com/noorderstorm/meteor-stellar",
+  "author": "Richard Venneman <richard@noorderstorm.com> (http://noorderstorm.com)",
+  "version": "0.1.0",
+  "git": "https://github.com/noorderstorm/meteor-stellar.git",
+  "packages": {}
+}
